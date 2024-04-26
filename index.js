@@ -68,7 +68,7 @@ homepage = {
             "company":"Network Rail",
             "startdate":"1/7/22",
             "enddate":"1/9/22",
-            "logo":"/content/Network_Rail_logo.svg",
+            "logo":"./content/Network_Rail_logo.svg",
             "jobtitle":"Summer Placement Student",
             "type":"IET Power Academy Scholarship",
             "responsibilities": [
@@ -81,7 +81,7 @@ homepage = {
             "company":"Network Rail",
             "startdate":"1/6/21",
             "enddate":"1/8/21",
-            "logo":"/content/Network_Rail_logo.svg",
+            "logo":"./content/Network_Rail_logo.svg",
             "jobtitle":"Summer Placement Student",
             "type":"IET Power Academy Scholarship",
             "responsibilities": [
@@ -94,13 +94,12 @@ homepage = {
             "company":"Southampton University Tennis Club",
             "startdate":"01/09/22",
             "enddate":"01/05/23",
-            "logo": "/content/sutc.jpeg",
+            "logo": "./content/sutc.jpeg",
             "jobtitle":"Assistant Tennis Coach",
             "type":"Part Time",
             "responsibilities": [
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-                "Nibh praesent tristique magna sit",
-                "Pretium nibh ipsum consequat nisl vel pretium lectus"
+                "Qualified as an LTA Level 1 Coach for this role in assisting coaching at Southampton University Tennis Club.",
+                "Helped lead weekly sessions alongside a lead coach, giving feedback to students, organising games, and giving demonstrations."
             ]
         }
     ],
@@ -109,7 +108,7 @@ homepage = {
             "institution":"University of Southampton",
             "startdate":"01/09/19",
             "enddate":"01/07/23",
-            "logo":"/content/uni_southampton_crest.jpg",
+            "logo":"./content/uni_southampton_crest.jpg",
             "qualification":"MEng Electrical and Electronic Engineering",
             "specialisation":"VLSI Design, Computer Architecture, Embedded Software",
             "achieved":"First Class Honours, Grade Average 78%",
@@ -123,7 +122,7 @@ homepage = {
             "institution":"Yavneh College Sixth Form",
             "startdate":"01/09/17",
             "enddate":"01/06/23",
-            "logo":"/content/Yavneh-College-Logo.png",
+            "logo":"./content/Yavneh-College-Logo.png",
             "qualification":"A-Levels",
             "specialisation":"Mathematics, Geography, Further Mathematics, Physics",
             "achieved":"A*A*AA",
