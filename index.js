@@ -54,7 +54,7 @@ homepage = {
             "company":"Microchip Technology",
             "startdate":"11/9/23",
             "enddate":"Present",
-            "logo":"/content/Microchip-Logo.svg",
+            "logo":"./content/Microchip-Logo.svg",
             "jobtitle":"Silicon Design Engineer",
             "type":"Full Time",
             "responsibilities": [
